@@ -1,0 +1,7 @@
+CASE
+SOS
+LAW
+MED
+ENG
+SCI
+SNA
